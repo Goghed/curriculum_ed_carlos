@@ -252,8 +252,12 @@ body {
 }
 
 .social_media {    
-    padding-left: 428px;
+    padding-left: 480px;
     padding-bottom:10px;    
+}
+
+.icons_media{
+    padding-left:30px:
 }
 
 .icons_media img {
